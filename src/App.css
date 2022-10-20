@@ -1,38 +1,139 @@
-.App {
-  text-align: center;
+.bod{
+  background-color: rgba(255,255,255,0.1);
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.car{
+  height:50vh;
 }
+.form{
+  margin-top:6em;
+  margin-left:3em;
+  margin-right:3em;
+  padding:1em;
+  border:1px solid black;
+  border-radius: 35px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.about{
+  padding: 3em;
+}
+.Justifier{
+  text-align: justify;
+}
+.formlogin{
+  margin-top:5em;
+  padding:2em;
+  border:1px solid black;
+  border-radius: 35px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.slotform{
+  margin-top:6em;
+  margin-left:3em;
+  margin-right:3em;
+  padding:1em;
+  border:1px solid black;
+  border-radius: 35px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sloteform{
+  margin:4em;
+  padding:2em;
+  border:1px solid black;
+  border-radius: 35px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+}
+.logform{
+
+}
+.cnter{
+  text-align:center
+}
+.image{
+  margin-top:5em;
+  height:60%;
+  width:85%;
+}
+.para{
+  color:red;
+}
+.underline{
+  text-decoration: underline;
+}
+.heigh{
+  margin-top:6em;
+}
+.error{
+  color:red;
+}
+.image1{
+  margin-top:5em;
+  height:50%; 
+  width:100%;
+}
+@media(min-width:540px){
+  .display{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin:2em;
   }
-}
+  .form{
+    margin:7em;
+    padding:3em;
+    border:1px solid black;
+    border-radius: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
   }
-  to {
-    transform: rotate(360deg);
-  }
+  
 }
+@media(min-width:688px){
+  .logform{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+  
+  }
+  .sloteform{
+    margin:3em;
+    padding:1em;
+    border:1px solid black;
+    border-radius: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     }
+
+
+}
+@media(min-width:800px){
+  .image{
+    margin-top:5em;
+    height:65%;
+    width:90%;
+  
+  }
+@media(min-width:997px){
+  .image1{
+    height:75%; 
+    width:90%;
+  }
+
+}
+@media(min-width:1000px){
+  .slotform{
+    margin-top:4em;
+    padding:2em;
+    border:1px solid black;
+    border-radius: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    .sloteform{
+      margin:4em;
+      padding:2em;
+      border:1px solid black;
+      border-radius: 35px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       }
+
+}}
