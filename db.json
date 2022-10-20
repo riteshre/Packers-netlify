@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ritesh",
+      "email": "ritesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "pavan",
+      "email": "p@gmail.com",
+      "password": "pavan",
+      "id": 2
+    },
+    {
+      "name": "srinivasa",
+      "email": "s@gmail.com",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "name": "Phani",
+      "email": "phani@gmail.com",
+      "password": "Phani123",
+      "id": 4
+    },
+    {
+      "name": "pavan",
+      "email": "pavan@gmail.com",
+      "password": "123456789",
+      "id": 5
+    },
+    {
+      "name": "adarsa ",
+      "email": "adarsa@gmail.com",
+      "password": "Adarsa@123",
+      "id": 6
+    },
+    {
+      "name": "rocky",
+      "email": "rocky@gmail.com",
+      "password": "123456789",
+      "id": 7
+    },
+    {
+      "name": "manikanta",
+      "email": "18A91A04F6@aec.edu.in",
+      "password": "R!tesh#6302",
+      "id": 8
+    },
+    {
+      "name": "Reddy",
+      "email": "reddy@gmail.com",
+      "password": "R!tesh#6302",
+      "id": 9
+    }
+  ],
+  "slot": [
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "distance": "1",
+      "selec": "4BHK",
+      "rate": 1000,
+      "id": 1
+    },
+    {
+      "From": "mumbai",
+      "To": "hyderabad",
+      "distance": "200",
+      "selec": "2BHK",
+      "rate": 140000,
+      "id": 2
+    },
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "email": "18A91A04F6@aec.edu.in",
+      "distance": "1",
+      "selec": "2BHK",
+      "rate": 700,
+      "id": 3
+    },
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "email": "ritesh@gmail.com",
+      "distance": "1",
+      "selec": "2BHK",
+      "rate": 700,
+      "id": 4
+    },
+    {
+      "From": "mumbai",
+      "To": "Rajahmundry",
+      "email": "18A91A04F6@aec.edu.in",
+      "distance": "20",
+      "selec": "2BHK",
+      "rate": 14000,
+      "id": 5
+    },
+    {
+      "From": "Rajahmundry",
+      "To": "Mumbai",
+      "email": "reddy@gmail.com",
+      "distance": "20",
+      "selec": "1BHK",
+      "rate": 10000,
+      "id": 6
+    },
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "email": "reddy@gmail.com",
+      "Phone": 6302156642,
+      "distance": "20",
+      "selec": "1BHK",
+      "rate": 10000,
+      "id": 7
+    },
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "email": "18A91A04F6@aec.edu.in",
+      "Phone": 6302156642,
+      "distance": "20",
+      "selec": "1BHK",
+      "rate": 2000,
+      "id": 8
+    },
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "email": "18A91A04F6@aec.edu.in",
+      "Phone": 6302156642,
+      "distance": "20",
+      "selec": "1BHK",
+      "rate": 2000,
+      "id": 9
+    },
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "email": "18A91A04F6@aec.edu.in",
+      "Phone": 6302156642,
+      "distance": "10",
+      "selec": "1BHK",
+      "rate": 1000,
+      "id": 10
+    },
+    {
+      "From": "chennai",
+      "To": "Mumbai",
+      "email": "18A91A04F6@aec.edu.in",
+      "Phone": 6302156642,
+      "distance": "230",
+      "selec": "1BHK",
+      "rate": 23000,
+      "id": 11
+    }
+  ]
+}
