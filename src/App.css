@@ -36,7 +36,7 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .sloteform{
-  margin:4em;
+  margin:2em;
   padding:2em;
   border:1px solid black;
   border-radius: 35px;
@@ -87,6 +87,14 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
   }
+  .sloteform{
+    margin:2em;
+    padding:1em;
+    border:1px solid black;
+    border-radius: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  }
   
 }
 @media(min-width:688px){
@@ -97,12 +105,13 @@
   
   }
   .sloteform{
-    margin:3em;
-    padding:1em;
+    margin-top:3em;
+    padding:2em;
     border:1px solid black;
     border-radius: 35px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-     }
+
+  }
 
 
 }

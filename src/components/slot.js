@@ -107,7 +107,7 @@ const Slot = () => {
     <div>
        <Form className="sloteform" onSubmit={formik.handleSubmit}>
       <h1>Slot Booking</h1>
-      {islogged ? <h5 class="error">Welcome <span>{user}</span></h5>: null}
+      {islogged ? <h6 class="error">Welcome <span>{user}</span></h6>: null}
       <Row className="mb-3">
         <Form.Group as={Col} >
           <Form.Label>Moving From</Form.Label>
@@ -189,7 +189,7 @@ const Slot = () => {
       </Button>
     </Form>
     <ToastContainer/>
-    {to?<h5 class="error">Thank you for Booking Slot Our Team will contact You</h5>:null}
+    {to?<h6 class="error">Thank you for Booking Slot Our Team will contact You</h6>:null}
     
     
     </div>
