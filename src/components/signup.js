@@ -21,7 +21,7 @@ const taskSchema= yup.object({
   .string().required("Password is required")
 })
 
-const url="http://localhost:4000/users";
+const url="https://63521fd79d64d7c7130f201b.mockapi.io/packers";
 
 
 const Signup = () => {

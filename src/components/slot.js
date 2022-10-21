@@ -31,8 +31,8 @@ const taskSchema= yup.object({
     distance:yup
     .string().required("Enter distance")
   })
-  const url2="http://localhost:4000/slot";
-  const url1="http://localhost:4000/users";
+  const url2="https://63521fd79d64d7c7130f201b.mockapi.io/slot";
+  const url1="https://63521fd79d64d7c7130f201b.mockapi.io/packers";
 
   var doct=null;
 
